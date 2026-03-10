@@ -26,3 +26,13 @@ Instagram for bikers: social feeds, safety maps/SOS, trip tracking (MVP in progr
 - Live Preview: [FlutterFlow link when ready]
 
 ## 🚀 Run Locally (Post-Export)
+
+
+## 📈 Why This Project?
+Cloud portfolio: realtime infra (Firebase=AWS), maps/scaling for Solutions Architect roles.
+
+**Connect**: [LinkedIn](https://linkedin.com/in/pradeeshap) | [Portfolio](link)
+
+---
+
+⭐ **Star if useful!** 👨‍💻
